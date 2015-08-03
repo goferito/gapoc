@@ -2,7 +2,7 @@
 Google Analytics Proof of Concept.
 
 Discussion and possible solutions on this thread on
-[Hacker News](https://news.ycombinator.com/item?id=9857876)
+[Hacker News](https://news.ycombinator.com/item?id=9857876).
 
 ### What is this thing about
 I was just curious if it is really possible to take anyone's google analytics
